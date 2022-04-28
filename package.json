@@ -1,0 +1,23 @@
+{
+  "name": "multipart-parser",
+  "version": "1.0.0",
+  "description": "Multipart form data parser node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMVijay/multipart-parser.git"
+  },
+  "keywords": [
+    "#multipart",
+    "#multipartparser"
+  ],
+  "author": "Vijayaraaghavan Manoharan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMVijay/multipart-parser/issues"
+  },
+  "homepage": "https://github.com/AMVijay/multipart-parser#readme"
+}
