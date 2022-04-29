@@ -1,13 +1,13 @@
 {
   "name": "@amvijay/multipart-parser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Multipart form data parser node module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
